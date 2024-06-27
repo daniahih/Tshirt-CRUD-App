@@ -1,0 +1,15 @@
+.heroImg {
+  width: 98%;
+  height: 50vh;
+  z-index: 8;
+}
+.hero {
+  color: rgb(240, 27, 27);
+  z-index: 10;
+  position: absolute;
+}
+.container {
+  position: relative;
+  height: 60vh;
+  width: 98%;
+}
